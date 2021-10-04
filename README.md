@@ -17,4 +17,5 @@ samples, guidance on mobile development, and a full API reference.
 
 #Code Made More Modular and Understandable
 
-#This App uses a Geolocator API for the Live Location Tracker so that the tracking can be easy.
+### This App uses a Geolocator API for the Live Location Tracker so that the tracking can be easy.
+### Feel free to fork it and add valid contributions
